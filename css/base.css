@@ -9,6 +9,7 @@ body {
   overflow: hidden;
   font-family: minion-pro, serif;
   -webkit-font-smoothing: antialiased;
+      font-size: 1.3vw;
 }
 
 .central-container {
